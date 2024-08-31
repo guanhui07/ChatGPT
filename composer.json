@@ -1,5 +1,5 @@
 {
-    "name": "onekb/chat-gpt",
+    "name": "guanhui07/chat-gpt",
     "description": "ChatGPT for PHP，和简易终端实现。Using OpenAI GPT3.5 model API.",
     "license": "MIT",
     "autoload": {

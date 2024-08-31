@@ -10,7 +10,7 @@ __Using OpenAI GPT3.5 model API [(reference)](https://platform.openai.com/docs/g
 # Installing
 
 ```php
-composer require onekb/chat-gpt
+composer require guanhui07/chat-gpt
 ```
 
 # Usage
